@@ -1,5 +1,5 @@
 .App {
-  text-align: center;
+  /* text-align: center; */
 }
 
 .App-logo {
@@ -21,6 +21,18 @@
 
 .App-link {
   color: #61dafb;
+}
+
+.imageIcon img{
+  width:50px;
+  height: 50px;
+}
+.fLeft{
+  float: left;
+}
+.contactWrapper{
+  float: left;
+  width: 100%;
 }
 
 @keyframes App-logo-spin {
